@@ -47,7 +47,7 @@ Keys Pressed:
 Saves and quits the file.
 
 Keys Pressed:
-``` <up><up><Enter>``
+```<up><up><Enter>```
 ![Image](10.png)
 Because the bash script was done earlier, I can just press up twice to get to it again. And we can see the tests succeed.
 
