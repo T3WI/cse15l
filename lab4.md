@@ -23,6 +23,7 @@ Because the  git clone command was already on my clipboard, I was able to paste 
 
 Keys Pressed:
 ```cd lab7<enter>ls<enter>```
+
 ![Image](5.png)<br>
 Just entering the directory
 
