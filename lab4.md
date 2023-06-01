@@ -19,7 +19,7 @@ Just changing directories to the one where I want to clone it.
 Keys Pressed:
 ```<ctrl>v<enter>ls<enter>```
 ![Image](4.png)<br>
-Because the  git clone command was already on my clipboard, I was able to paste it into the terminal. Then I used ls to check it was there
+Because the  git clone command was already on my clipboard, I was able to paste it into the terminal. Then I used ls to check it was there.
 
 Keys Pressed:
 ```cd lab7<enter>ls<enter>```
