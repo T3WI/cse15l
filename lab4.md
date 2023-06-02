@@ -54,5 +54,5 @@ Because the bash script was done earlier, I can just press up twice to get to it
 
 Keys Pressed:
 ```git add*<Enter>git commit -m "message"<Enter>git push```
-![Image](11.png)<br>
-I set up ssh, but it still won't let me push.
+![Image](12.png)<br>
+Add, commit, push.
