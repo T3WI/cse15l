@@ -24,4 +24,8 @@ Try and use combinations of letters and numbers as inputs to java. Think careful
 It looks like inputting a combination of letters and numbers into the java file produces a txt file that is a combination of the inputs. Because letters were also used as inputs, it means that strings are being passed in as inputs, which makes sense, because the main function takes in string arguments. Because I left the arguments as strings, strings were passed into the print function, and the `+` operator acted as a concatenator instead of doing addition, which is why it produced the combined output of inputs at the results.txt file. 
 ![Student Output 4](output4.png)
 To fix this, all I have to do is convert the string inputs of args into doubles. I can do this using the parseDouble() function.
-
+![Student Output 5](output5.png)
+![Student Output 6](output6.png)
+![Student Output 7](output7.png)
+And if we try to put in strings like before, we should expect an error, as we do here:
+![Student Output 7](error.png)
