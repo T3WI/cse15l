@@ -29,3 +29,5 @@ To fix this, all I have to do is convert the string inputs of args into doubles.
 ![Student Output 7](output7.png)
 And if we try to put in strings like before, we should expect an error, as we do here:
 ![Student Output 7](error.png)
+## Reflection 
+I've always heard about vim and how difficult it is to use until now, especially how no one can seem to figure out how to exit it. After trying out vim in Week 7, I was happy to learn how much fun it is to use vim, as well as how fast I can navigate through text files through some simple commands. I'm looking forward to using it more as my main text editor. 
