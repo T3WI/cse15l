@@ -14,6 +14,10 @@ Here is the bash script and the java code:
 ![Student Code](studentCode.png)
 
 **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.**
+In the commands I posted above, all three commands ran were failure-inducing inputs. They all outputted a combination of the inputs as the output. 
+
+
+**TA RESPONSE**
 
 
 
