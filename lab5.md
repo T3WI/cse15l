@@ -9,7 +9,9 @@ It doesn't work :(. The program is supposed to print the sum of the arguments ca
 ![Student Output 1](output1.png)
 ![Student Output 2](output2.png)
 ![Student Output 3](output3.png)
-
+Here is the bash script and the java code:
+![Student Bash](bashScript.png)
+![Student Code](javaCode.png)
 
 **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.**
 
